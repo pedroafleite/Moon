@@ -1,4 +1,14 @@
-# Data Analysis and Strategy for Thrift Stores
+---
+layout: post
+title: "Project 1: Data Analysis for Thrift Stores"
+date: 16-10-20202
+excerpt: "Evaluating the inventories of three thrift stores to take smarter businesses decisions."
+tags: [data-analysis, business-intelligence, nlp]
+comments: true
+project: true
+---
+
+# Project 1: Data Analysis and Strategy for Thrift Stores
 
 ## Data description
  
