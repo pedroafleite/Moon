@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project 1: Data Analysis for Thrift Stores"
-date: 16-10-20202
+date: 2020-10-16
 excerpt: "Evaluating the inventories of three thrift stores to take smarter businesses decisions."
 tags: [data-analysis, business-intelligence, nlp]
 comments: true
