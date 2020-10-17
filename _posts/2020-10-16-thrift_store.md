@@ -8,6 +8,6 @@ comments: true
 project: true
 ---
 
-## Project 1: Data Analysis for Thrift Stores
+## [Project 1: Data Analysis for Thrift Stores](https://github.com/pedroafleite/thrift_stores)
 
 Test.
