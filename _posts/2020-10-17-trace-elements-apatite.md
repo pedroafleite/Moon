@@ -2,7 +2,7 @@
 layout: post
 title: "Project 2: Indicator Minerals For Prospecting Mineral Deposits"
 date: 2020-10-16
-excerpt: "Statistical Analysis of Trace Elements in Apatite and Magnetite."
+excerpt: "Statistical inference and machine learning in geochemical data of trace elements in apatite and magnetite."
 tags: [project, geology, mineralogy, data-analysis, pca, lda]
 comments: true
 project: true
