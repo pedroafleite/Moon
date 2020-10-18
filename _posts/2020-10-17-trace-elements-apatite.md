@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Project 2: Indicator Minerals As Proxies for Mineral Deposits: Statistical Analysis of Trace Elements in Apatite and Magnetite"
+title: "Project 2: Indicator Minerals For Prospecting Mineral Deposits"
 date: 2020-10-16
-excerpt: "Trace element geochemistry of apatite and magnetite in gold systems of the Alta Floresta mineral province, NW Brazil: Petrogenetic and metallogenic implications."
+excerpt: "Statistical Analysis of Trace Elements in Apatite and Magnetite."
 tags: [project, geology, mineralogy, data-analysis, pca, lda]
 comments: true
 project: true
