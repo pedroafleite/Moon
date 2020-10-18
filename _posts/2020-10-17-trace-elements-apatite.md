@@ -8,7 +8,7 @@ comments: true
 project: true
 ---
 
-## [Project 2: Indicator Minerals As Proxies for Mineral Deposits: Statistical Analysis of Trace Elements in Apatite and Magnetite](https://github.com/pedroafleite/trace-elements-apatite-magnetite)
+## [Project 2: Indicator Minerals As Proxies for Mineral Deposits](https://github.com/pedroafleite/trace-elements-apatite-magnetite)
 
 Code for the statistical analysis in my MS dissertation: 
 
