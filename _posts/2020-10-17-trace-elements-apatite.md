@@ -8,7 +8,8 @@ comments: true
 project: true
 ---
 
-# [Indicator Minerals As Proxies for Mineral Deposits: Statistical Analysis of Trace Elements in Apatite and Magnetite](https://github.com/pedroafleite/trace-elements-apatite-magnetite)
+# [Indicator Minerals As Proxies for Mineral Deposits: 
+## Statistical Analysis of Trace Elements in Apatite and Magnetite](https://github.com/pedroafleite/trace-elements-apatite-magnetite)
 Code for the statistical analysis in my MS dissertation: 
 
 - [Trace element geochemistry of apatite and magnetite in gold systems of the Alta Floresta mineral province, NW Brazil: Petrogenetic and metallogenic implications](http://hdl.handle.net/11449/193761).
