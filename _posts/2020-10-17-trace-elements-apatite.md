@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project 2: Indicator Minerals For Prospecting Mineral Deposits"
+title: "Project 2: Indicator Minerals As Proxies For Mineral Deposits"
 date: 2020-10-16
 excerpt: "Statistical inference and machine learning in geochemical data of apatite and magnegtite."
 tags: [project, geology, mineralogy, data-analysis, pca, lda]
@@ -8,8 +8,7 @@ comments: true
 project: true
 ---
 
-## [Project 2: Indicator Minerals As Proxies for Mineral Deposits](https://github.com/pedroafleite/trace-elements-apatite-magnetite)
-
+# [Indicator Minerals As Proxies for Mineral Deposits: Statistical Analysis of Trace Elements in Apatite and Magnetite](https://github.com/pedroafleite/trace-elements-apatite-magnetite)
 Code for the statistical analysis in my MS dissertation: 
 
 - [Trace element geochemistry of apatite and magnetite in gold systems of the Alta Floresta mineral province, NW Brazil: Petrogenetic and metallogenic implications](http://hdl.handle.net/11449/193761).
@@ -20,14 +19,22 @@ The complete dissertation is also available [here at Github](https://github.com/
 ## Data availability
 The datasets analysed in this study are available as:
 - [Apatite dataset](https://github.com/pedroafleite/trace-elements-apatite-magnetite/blob/main/geochem_ap.csv)
-- Magnetite dataset (*Available soon*)
+- [Magnetite dataset](https://github.com/pedroafleite/trace-elements-apatite-magnetite/blob/main/geochem_mag.csv)
 
 ## Data reproducibility
-The code for replicating the study in apatite is displayed in the following R markdowns:
+The code for replicating the study is displayed in the following R markdowns:
 
-- [Part 1: Data Exploration of Trace Elements in Apatite](https://github.com/pedroafleite/trace-elements-apatite-magnetite/blob/main/part1_apatite.md#part-1-data-exploration-of-trace-elements-in-apatite)
+### Apatite
+
+- [Part 1: Data Exploration of Trace Elements in Apatite](https://github.com/pedroafleite/trace-elements-apatite-magnetite/blob/main/part1_apatite.md)
 
 - [Part 2: Multivariate Discriminat Analysis in Apatite](https://github.com/pedroafleite/trace-elements-apatite-magnetite/blob/main/part2_apatite_discriminant.md)
+
+### Magnetite
+
+- [Part 1: Data Exploration of Trace Elements in Magnetite](https://github.com/pedroafleite/trace-elements-apatite-magnetite/blob/main/part1_magnetite.md)
+
+- [Part 2: Multivariate Discriminat Analysis in Magnetite](https://github.com/pedroafleite/trace-elements-apatite-magnetite/blob/main/part2_magnetite_discriminant.md)
 
 ## What is it about?
 Indicator minerals, such as apatite and magnetite, are useful for discriminating between barren igneous rocks and hydrothermal alteration halos, since they display contrasting chemical compositions that allow us to infer the distance to a mineral deposit, and to know which type of deposit it is. In this study, textural and compositional patterns in apatite and magnetite were evaluated in the mineral deposits of the Alta Floresta mineral province, in the Amazon Craton, to appraise whether there are potentially unrealised mineral deposits in the region. 
