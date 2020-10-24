@@ -2,7 +2,7 @@
 layout: post
 title: "Project 3: Solving Problems for Dentists"
 date: 2020-10-24
-excerpt: "Statistical analysis and linear regression for dentistry study from the São Paulo State University in São José dos Campos"
+excerpt: "Statistical analysis and linear regression for academic study in dentistry"
 tags: [project, business, data-analysis, nlp]
 comments: true
 project: true
