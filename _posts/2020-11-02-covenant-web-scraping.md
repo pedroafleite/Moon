@@ -5,7 +5,6 @@ date: 2020-11-02
 excerpt: "(pt-br) Web scraping of HTML text and tables in government websites"
 tags: [business, web-scraping, nlp]
 comments: true
-project: false
 ---
 
 # Identificar blocos de texto específicos em Convênios ICMS
