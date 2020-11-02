@@ -7,7 +7,9 @@ tags: [business, web-scraping, nlp]
 comments: true
 ---
 
-# Identificar blocos de texto específicos em Convênios ICMS
+# [Identificar blocos de texto específicos em Convênios ICMS](https://github.com/pedroafleite/convenios)
+
+[Ver em Github](https://github.com/pedroafleite/convenios)
 
 ## Objetivos
 1. Fazer um scrapping de todos os convênios do ano 2019. ([Link](https://www.confaz.fazenda.gov.br/legislacao/convenios/2019))
