@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Identifying tables and text blocks in government covenants"
+date: 2020-10-24
+excerpt: "(In Portuguese) Web scraping of HTML text and tables in government websites"
+tags: [project, business, data-analysis, nlp]
+comments: true
+project: false
+---
+
+# Identificar blocos de texto específicos em Convênios ICMS
+
+## Objetivos
+1. Fazer um scrapping de todos os convênios do ano 2019. ([Link](https://www.confaz.fazenda.gov.br/legislacao/convenios/2019))
+2. De cada convênio, extrair os itens coloridos em vermelho e verde.
+3. Exportar itens de cada convênio em arquivos txt diferentes.
+
+### Resultados
+Objetivos alcançados, exceto pelos termos em verde, que não foram encontrados nos documentos.
+
+#### Códigos
+[Python](https://github.com/pedroafleite/convenios/blob/main/convenios.py) 
+
+[Jupyter Notebook](https://github.com/pedroafleite/convenios/blob/main/convenios.ipynb)
+
+## Exploração de dados e sub-problemas solucionados
+Encontrar textos nos documentos em que vermelho e verde são adjetivos de algum termo específico.
+  - Requer NLP básico.
+
+### Resultados 
+As palavras vermelho e verde não foram citadas nos documentos dos Convênios ICMS de 2019.
+
+[Documento .txt](https://github.com/pedroafleite/convenios/blob/main/output.txt) que dispõe:
+1. o texto contendo as palavras buscadas, e 
+2. qual documento em que o texto foi encontrado.
