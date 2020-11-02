@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Identifying tables and text blocks in government covenants"
+title: "Identifying tables and text blocks"
 date: 2020-11-02
-excerpt: "(pt-br) Web scraping of HTML text and tables in government websites"
+excerpt: "(pt-br) Web scraping of HTML text and tables in government covenants"
 tags: [business, web-scraping, nlp]
 comments: true
 ---
