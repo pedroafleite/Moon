@@ -6,7 +6,7 @@ date: 16-10-2020
 comments: false
 ---
 
-I’m Pedro and I’m a Data Scientist. A few things about me: I work as a Data Analyst at a startup that is part Data Analytics consultancy, part Data Scientist training. Half of my job is applying Web Scraping, Data Wrangling and Exploratory Analysis for clients, while I develop more complex Machine Learning algorithms and pipelines to be applied in future projects. So, in practice, I’m a Data Science Analyst and a Machine Learning Trainee all at once.
+Hi! I’m Pedro and I’m a Data Scientist. A few things about me: I work as a Data Analyst at a startup that is part Data Analytics consultancy, part Data Scientist training. Half of my job is applying Web Scraping, Data Wrangling and Exploratory Analysis for clients, while I develop more complex Machine Learning algorithms and pipelines to be applied in future projects. So, in practice, I’m a Data Science Analyst and a Machine Learning Trainee all at once.
 
 I delve into a few Kaggle competitions to learn Machine Learning in practice. I was able to predict which products a consumer would purchase again in a supermarket chain (using topic modeling, clustering and random forests). I built a model for predicting which pieces of clothing in a Thrift Store were expensive or cheap, based only on clothing descriptions (NLP). I also dealt with Named Entities Recognition for legal firms. I also have projects such as for the spatial distribution of Covid-19 cases, and statistical analysis applied to research in dentistry. 
 
