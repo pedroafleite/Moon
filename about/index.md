@@ -6,12 +6,8 @@ date: 16-10-2020
 comments: false
 ---
 
-Writing code is like spelling magic. One line and, puff, a whole world opens up.
+I’m Pedro and I’m a Data Scientist. A few things about me: I work as a Data Analyst at a startup that is part Data Analytics consultancy, part Data Scientist training. Half of my job is applying Web Scraping, Data Wrangling and Exploratory Analysis for clients, while I develop more complex Machine Learning algorithms and pipelines to be applied in future projects. So, in practice, I’m a Data Science Analyst and a Machine Learning Trainee all at once.
 
-And an open world is what I aim for. I learned as a geologist that understanding physics and chemistry makes us admire even more the natural beauties of Earth. I learned as a Master of Science in Geosciences and Environment that us, who populate the planet’s surface, need to live in harmony with Earth’s systems.
+I delve into a few Kaggle competitions to learn Machine Learning in practice. I was able to predict which products a consumer would purchase again in a supermarket chain (using topic modeling, clustering and random forests). I built a model for predicting which pieces of clothing in a Thrift Store were expensive or cheap, based only on clothing descriptions (NLP). I also dealt with Named Entities Recognition for legal firms. I also have projects such as for the spatial distribution of Covid-19 cases, and statistical analysis applied to research in dentistry. 
 
-At the rims of the Amazon Forest, I developed my Master’s thesis, in which I applied machine learning methods to mineral chemical compositions to determine how far were we from gold deposits. To understand how to do that, I sank myself in books — coding, databases, statistics, probability, and artificial intelligence. The methods I developed promise to enhance the precision to search for ore deposits in the Amazon Region, and consequently, to reduce deforestation and the environmental impact of artisan mining.
-
-After years in the academy, I realised that my efforts would be more effective if I were to apply them directly to markets, which are more permeable to the needs of society and the environment. I comprehended that my tools are universal and they have applicability beyond the Natural and Exact Sciences. I, as a generalist, could leave my comfort zone to help people get comfortable, in a time when it is most needed.
-
-Be welcome, be well.
+Besides that, I have been a gold explorer in the Amazon Forest, an Oil & Gas Researcher, a Senior Red Belt in Taekwondo, a weightlifter/runner, and I have cooked a massive Vegan Feijoada for more than 50 people in Scotland! But I digress. At night, if I’m not philosophizing with friends (hardly possible in the past year), I usually stay at home and read. I’ve been reading 100 books a year.
