@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project 2: Indicator Minerals As Proxies For Mineral Deposits"
+title: "Indicator Minerals As Proxies For Mineral Deposits"
 date: 2020-10-16
 excerpt: "Statistical inference and machine learning in geochemical data of apatite and magnegtite."
 tags: [project, geology, mineralogy, data-analysis, pca, lda]
