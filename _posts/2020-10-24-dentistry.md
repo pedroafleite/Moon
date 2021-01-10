@@ -3,7 +3,7 @@ layout: post
 title: "Solving Problems for Dentists"
 date: 2020-10-24
 excerpt: "Statistical analysis and linear regression for academic study in dentistry"
-tags: [project, business, data-analysis, nlp]
+tags: [project, business, data-analysis, linear-regression, statistics]
 comments: true
 project: true
 ---
