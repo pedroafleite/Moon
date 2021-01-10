@@ -2,7 +2,7 @@
 layout: post
 title: "Coronavirus in the São Paulo State"
 date: 2020-09-15
-excerpt: "Covid-19 cases, deaths and populational analysis"
+excerpt: "Populational analysis of Covid-19 cases and deaths"
 tags: [project, data-analysis, covid-19, spatial-analysis]
 comments: true
 project: true
