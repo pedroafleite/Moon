@@ -8,7 +8,7 @@ comments: true
 project: true
 ---
 
-## [Project 1: Data Analysis and Business Strategy for Thrift Stores](https://github.com/pedroafleite/thrift_stores)
+## [Data Analysis and Business Strategy for Thrift Stores](https://github.com/pedroafleite/thrift_stores)
 
 Our objective is to perform a statistical analysis that will help a newly opened thrift store to make efficient and profitful businesses decisions. 
 
