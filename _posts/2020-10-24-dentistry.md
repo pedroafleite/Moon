@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project 3: Solving Problems for Dentists"
+title: "Solving Problems for Dentists"
 date: 2020-10-24
 excerpt: "Statistical analysis and linear regression for academic study in dentistry"
 tags: [project, business, data-analysis, nlp]
