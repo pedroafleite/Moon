@@ -15,3 +15,5 @@ Hi! I’m Pedro and I’m a Data Scientist. A few things about me: I work as a D
 I delve into a few Kaggle competitions to learn Machine Learning in practice. I was able to predict which products a consumer would purchase again in a supermarket chain (using topic modeling, clustering and random forests). I built a model for predicting which pieces of clothing in a Thrift Store were expensive or cheap, based only on clothing descriptions (NLP). I also dealt with Named Entities Recognition for legal firms. I also have projects such as for the spatial distribution of Covid-19 cases, and statistical analysis applied to research in dentistry. 
 
 Besides that, I have been a gold explorer in the Amazon Forest, an Oil & Gas Researcher, a Senior Red Belt in Taekwondo, a weightlifter/runner, and I have cooked a massive Vegan Feijoada for more than 50 people in Scotland! But I digress. At night, if I’m not philosophizing with friends (hardly possible in the past year), I usually stay at home and read. I’ve been reading 100 books a year.
+
+Be welcome and be well!
