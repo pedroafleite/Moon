@@ -7,7 +7,7 @@ comments: false
 ---
 
 <figure>
-	<a href="https://ibb.co/ypZs1r5"><img src="https://ibb.co/ypZs1r5"></a>
+	<a href="https://ibb.co/ypZs1r5"><img src="https://i.ibb.co/XDKJgqp/pic-Copia-2.jpg"></a>
 </figure>
 
 Hi! I’m Pedro and I’m a Data Scientist. A few things about me: I work as a Data Analyst at a startup that is part Data Analytics consultancy, part Data Scientist training. Half of my job is applying Web Scraping, Data Wrangling and Exploratory Analysis for clients, while I develop more complex Machine Learning algorithms and pipelines to be applied in future projects. So, in practice, I’m a Data Science Analyst and a Machine Learning Trainee all at once.
