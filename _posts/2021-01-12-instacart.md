@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Next Purchase Prediction"
-date: 2020-10-16
+date: 2020-12-20
 excerpt: "Which products will an Instacart consumer purchase again?"
 tags: [project, market-basket-analysis, client-segmentation, lda, clustering, random-forests]
 comments: true
