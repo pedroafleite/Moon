@@ -8,7 +8,9 @@ comments: false
 project: true
 ---
 
-# Computer Vision: Seeing animal faces
+# [Computer Vision: Seeing animal faces](https://github.com/pedroafleite/cv_animalfaces)
+
+[See the Github repository by clicking here.](https://github.com/pedroafleite/cv_animalfaces)
 
 We have a spin on a classical problem of computer vision, in which we have to classify **cat** and **dog** images using Keras.
 
